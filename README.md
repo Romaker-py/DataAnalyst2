@@ -1,13 +1,11 @@
 Some skills that Data Analyst may need.
 
-数据分析常用技能梳理。
-
 ---------------------------------------------
-加速浏览jupyter notebook：
+Too slowly to access jupyter notebook? Try this:
 
-第一步：访问网址：https://nbviewer.jupyter.org/
+Step 1: Try this website: https://nbviewer.jupyter.org/
 
-第二步：输入需要访问文件URL并回车即可。
+Step 2: Copy the link you want to access, press Enter key, you'll get it quickly.
 
 ---------------------------------------------
 Life is short, you need Python!
