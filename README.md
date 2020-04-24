@@ -1,6 +1,6 @@
-数据分析常用技能梳理。
-
 Some skills that Data Analyst may need.
+
+数据分析常用技能梳理。
 
 ---------------------------------------------
 加速浏览jupyter notebook：
