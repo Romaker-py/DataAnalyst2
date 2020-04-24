@@ -6,3 +6,6 @@
 第一步：访问网址：https://nbviewer.jupyter.org/
 
 第二步：输入需要访问文件URL并回车即可。
+
+---------------------------------------------
+Life is short, you need Python!
