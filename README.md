@@ -1,6 +1,7 @@
 数据分析常用技能梳理。
+Some skills that Data Analyst may need.
 
-
+---------------------------------------------
 加速浏览jupyter notebook：
 
 第一步：访问网址：https://nbviewer.jupyter.org/
